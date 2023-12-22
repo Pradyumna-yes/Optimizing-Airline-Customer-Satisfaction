@@ -30,8 +30,11 @@ In an industry where customer satisfaction is the runway to success, our model i
 ## Installation
 Just import the notebook file into your environment and run it to see our model in action.
 
+Power Bi Dashboard of Customer Satisfication Report:
+
 ![ezgif com-video-to-gif-converted](https://github.com/Pradyumna-yes/Optimizing-Airline-Customer-Satisfaction/assets/96283346/64e33158-8e28-4387-875f-b0b8cf78b425)
 
+View Full Work:https://github.com/Pradyumna-yes/Optimizing-Airline-Customer-Satisfaction/tree/main/Power%20BI-Visualization
 
 ## 📫 Contact
 Got questions or suggestions? Reach out!

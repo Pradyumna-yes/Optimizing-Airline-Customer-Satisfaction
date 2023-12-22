@@ -1,0 +1,26 @@
+Attributes,Description
+Sl.no, A unique sequential number assigned to each record in the dataset.
+id, The identifier for each passenger or flight instance.
+Gender, The gender of the passenger.
+Customer Type," Classification of the customer based on loyalty (e.g., Loyal, Disloyal)."
+Age, The age of the passenger.
+Type of Travel," The travel purpose, such as Business or Personal travel."
+Class," The class of service the passenger has booked (e.g., Economy, Business)."
+Flight Distance, The total distance of the flight travelled.
+Inflight Wi-Fi service, Passenger rating for the inflight Wi-Fi service.
+Departure/Arrival time convenient, Passenger rating on the convenience of flight times.
+Ease of Online booking, Passenger rating for the ease of booking online.
+Gate location, Passenger rating on the convenience of the gate location.
+Food and drink, Passenger rating for the quality of food and drinks.
+Online boarding, Passenger rating for the online boarding process.
+Seat comfort, Passenger rating for the comfort of their seat.
+Inflight entertainment, Passenger rating for the entertainment options available.
+On-board service, Passenger rating for the service provided on board.
+Leg room service, Passenger rating for the legroom available.
+Baggage handling, Passenger rating for the handling of their luggage.
+Check-in service, Passenger rating for the check-in process.
+Inflight service, Passenger rating for the overall inflight service.
+Cleanliness, Passenger rating for the cleanliness of the aircraft.
+Departure Delay in Minutes, Length of the flight's departure delay in minutes.
+Arrival Delay in Minutes, Length of the flight's arrival delay in minutes.
+satisfaction," Overall satisfaction of the passenger, typically binary (satisfied/dissatisfied)."
